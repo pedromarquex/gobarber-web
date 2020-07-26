@@ -14,7 +14,7 @@ function SignUp() {
         <input type="password" placeholder="Sua senha secreta" />
 
         <button type="submit">Criar conta</button>
-        <Link to="/register">Já tenho login</Link>
+        <Link to="/">Já tenho login</Link>
       </form>
     </>
   );
